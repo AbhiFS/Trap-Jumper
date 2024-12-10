@@ -1,65 +1,60 @@
 Trap-Jumper
 
-Welcome to Trap-Jumper! This is a fun and challenging 2D platformer where you’ll have to jump, dodge, and avoid traps in a series of increasingly tricky levels. Think you have what it takes to survive the gauntlet? Test your reflexes, sharpen your skills, and try to beat the game’s toughest obstacles!
-What’s Inside
+Welcome to Trap-Jumper! This is a 2D platformer that’s all about jumping, dodging, and avoiding traps as you make your way through tricky levels. It’s simple, fun, and just the right amount of challenging. If you think you’ve got quick reflexes and sharp skills, this game is for you!
+What’s in the Game?
 
-    Challenging Levels: Each level is packed with unique traps and obstacles that will keep you on your toes.
-    Smooth Gameplay: We've made sure the controls are responsive, so your jumping and dodging feel just right.
-    Simple UI: The user interface is clean and easy to understand, keeping you focused on the action.
-    Lots of Fun: It’s all about jumping, avoiding traps, and getting to the next level. What could be more fun than that?
+    Challenging Levels: Every level has new traps and obstacles to keep things interesting. The difficulty ramps up, so you’ll need to stay on your toes.
+    Smooth Controls: The controls feel responsive and natural, so you’ll never feel like the game is holding you back.
+    Clean UI: No clutter here—just a simple, easy-to-understand interface that lets you focus on the gameplay.
+    Fun Gameplay: It’s all about jumping, surviving, and getting to the next level. Simple concept, and lots of fun.
 
 Built With
 
-    Unity: We’re using Unity to bring the game to life. It's fast and efficient for building 2D games, and we’re making full use of it here!
-    C#: The game logic is powered by C#. This is where all the jumping, dodging, and trap interactions come to life.
-    GitHub & Git LFS: We’re using Git to manage the project and Git LFS (Large File Storage) for all the big assets like textures and models.
+    Unity: The game is built in Unity, which is great for 2D game development.
+    C#: All the game logic (like jumping, traps, and movement) is written in C#.
+    Git & Git LFS: Git is used for version control, and Git LFS handles large files like assets and textures.
 
-How to Get Started
+How to Set It Up
 
-Want to run the game on your machine? Here’s how you can set everything up!
+Here’s how you can get the game running on your machine:
 Prerequisites
 
-    Unity: You’ll need the latest version of Unity. It’s free to download if you don’t have it yet.
-    Git: Make sure you have Git installed to clone the repo and keep everything up to date.
-    Git LFS: This helps with managing large files like textures, models, etc. You can get it from Git LFS.
+You’ll need these tools installed before you start:
 
-Setup Steps
+    Unity: Download Unity Hub here. Make sure you’re using the latest version.
+    Git: Get Git here. You’ll need it to clone the project.
+    Git LFS: This is used to manage large files like images and models. Follow the setup guide here.
 
-    Clone the repo: First, clone the project to your computer by running this in your terminal:
+Steps to Run the Game
 
-git clone https://github.com/AbhiFS/Trap-Jumper.git
+    Clone the Project
+    Open your terminal and run:
 
-Install Git LFS: If you haven’t set up Git LFS yet, go to Git LFS and follow the installation instructions.
+    git clone https://github.com/AbhiFS/Trap-Jumper.git
 
-Navigate to the project folder:
+    Set Up Git LFS
+    If Git LFS isn’t already installed, follow the instructions here.
 
-    cd Trap-Jumper
+    Open the Project in Unity
+        Launch Unity Hub.
+        Click Open Project and select the Trap-Jumper folder you just cloned.
+        Unity may ask to install missing dependencies. Just click OK and wait for it to finish.
 
-    Open the project in Unity:
-        Launch Unity Hub and click on Open Project.
-        Select the Trap-Jumper folder that you just cloned.
-
-    Unity will probably ask you to download any missing dependencies or assets—just let it do its thing.
-
-Running the Game
-
-Once everything’s set up, you’re ready to play!
-
-    Open Unity and hit Play to start the game.
-    Navigate through the levels, avoiding traps and obstacles. Get ready for a challenge!
-
+    Run the Game
+        Open the project in Unity.
+        Hit the Play button (it’s at the top of the screen).
+        Enjoy the game and try not to rage quit!
 
 Game Controls
 
-    Arrow Keys / WASD: Move your character left and right.
-    Spacebar: Jump. Timing is key!
+    Arrow Keys / WASD: Move left and right.
+    Spacebar: Jump (timing matters!).
     Esc: Pause the game.
-
 
 License
 
-This project is open-source and licensed under the MIT License. You can check out the LICENSE file for all the details.
+This project is open-source under the MIT License. You’re free to use or modify it—just don’t forget to give credit where it’s due. See the LICENSE file for the details.
+
 Acknowledgments
 
-  
-    All assets used in the game come from free resources like the Unity Asset Store.
+    Assets are sourced from free resources like the Unity Asset Store. I mostly used assets for the maps, the character/player, audio.
